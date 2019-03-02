@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/experiments.iml" filepath="$PROJECT_DIR$/experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springinaction.iml" filepath="$PROJECT_DIR$/.idea/modules/springinaction.iml" group="springinaction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springinaction/springinaction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springinaction/springinaction_main.iml" group="springinaction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springinaction/springinaction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springinaction/springinaction_test.iml" group="springinaction" />
     </modules>
   </component>
 </project>
