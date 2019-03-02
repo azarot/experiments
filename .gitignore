@@ -7,3 +7,4 @@
 .reviewboardrc
 .shelf/
 *.iml
+.DS_Store
