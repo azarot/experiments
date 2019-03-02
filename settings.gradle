@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'experiments'
+include 'springinaction'
+
